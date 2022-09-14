@@ -30,7 +30,7 @@ make sur that you a located at the project container and run
 
 dotnet build
 
-if any error run : 
+if the build complete without any error run : 
 dotnet run 
 
 Hello, World! will appear in the screen.
