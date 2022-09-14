@@ -6,7 +6,7 @@ https://code.visualstudio.com/Download
 After installing VS Code, you will want to add the C# extension found here:
 https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
 
---- Lets now create our first C# console application program --
+--- Lets know create our first C# console application program --
 
 When you start Visual Studio Code, you are presented with a blank slate. Creating solutions and projects 
 must be done through the .NET 6 command-line interface, also known as the CLI. To start, open a folder 
