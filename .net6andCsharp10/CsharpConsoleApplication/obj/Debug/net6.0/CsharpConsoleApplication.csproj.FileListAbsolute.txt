@@ -1,0 +1,15 @@
+C:\Users\khali\Documents\workspace\create-sln\.net6andCsharp10\CsharpConsoleApplication\bin\Debug\net6.0\CsharpConsoleApplication.exe
+C:\Users\khali\Documents\workspace\create-sln\.net6andCsharp10\CsharpConsoleApplication\bin\Debug\net6.0\CsharpConsoleApplication.deps.json
+C:\Users\khali\Documents\workspace\create-sln\.net6andCsharp10\CsharpConsoleApplication\bin\Debug\net6.0\CsharpConsoleApplication.runtimeconfig.json
+C:\Users\khali\Documents\workspace\create-sln\.net6andCsharp10\CsharpConsoleApplication\bin\Debug\net6.0\CsharpConsoleApplication.dll
+C:\Users\khali\Documents\workspace\create-sln\.net6andCsharp10\CsharpConsoleApplication\bin\Debug\net6.0\CsharpConsoleApplication.pdb
+C:\Users\khali\Documents\workspace\create-sln\.net6andCsharp10\CsharpConsoleApplication\obj\Debug\net6.0\CsharpConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\khali\Documents\workspace\create-sln\.net6andCsharp10\CsharpConsoleApplication\obj\Debug\net6.0\CsharpConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khali\Documents\workspace\create-sln\.net6andCsharp10\CsharpConsoleApplication\obj\Debug\net6.0\CsharpConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\khali\Documents\workspace\create-sln\.net6andCsharp10\CsharpConsoleApplication\obj\Debug\net6.0\CsharpConsoleApplication.AssemblyInfo.cs
+C:\Users\khali\Documents\workspace\create-sln\.net6andCsharp10\CsharpConsoleApplication\obj\Debug\net6.0\CsharpConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\khali\Documents\workspace\create-sln\.net6andCsharp10\CsharpConsoleApplication\obj\Debug\net6.0\CsharpConsoleApplication.dll
+C:\Users\khali\Documents\workspace\create-sln\.net6andCsharp10\CsharpConsoleApplication\obj\Debug\net6.0\refint\CsharpConsoleApplication.dll
+C:\Users\khali\Documents\workspace\create-sln\.net6andCsharp10\CsharpConsoleApplication\obj\Debug\net6.0\CsharpConsoleApplication.pdb
+C:\Users\khali\Documents\workspace\create-sln\.net6andCsharp10\CsharpConsoleApplication\obj\Debug\net6.0\CsharpConsoleApplication.genruntimeconfig.cache
+C:\Users\khali\Documents\workspace\create-sln\.net6andCsharp10\CsharpConsoleApplication\obj\Debug\net6.0\ref\CsharpConsoleApplication.dll
