@@ -1,3 +1,6 @@
+C# 10 and .net 6 with visual code 
+
+
 First to all, we start by creating a new solution under directory in our case we choose .net6andCsharp as name zith the folowing instruction 
 "dotnet new sln -n FirstSln -o .\.net6andCsharp10"
 if any error lets create our first Console application project with the following instruction : 
