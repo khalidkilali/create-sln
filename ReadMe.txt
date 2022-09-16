@@ -1,5 +1,6 @@
-C# 10 and .net 6 with visual code 
-
+<b>C# 10 and .net 6 with visual code </b>
+To learn more about .net6 please check this link below : 
+https://devblogs.microsoft.com/dotnet/announcing-net-6/
 to install Visual Code : 
 https://code.visualstudio.com/Download
 
