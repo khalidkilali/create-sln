@@ -26,7 +26,7 @@ At the end of our build we need to add the project to our solution by :
 dotnet -h
 Now our projet is ready 
 
-Build and Run : is the first lets see how to run a project 
+Restore and Build and Run  : is the first lets see how to run a project 
 make sur that you a located at the project container and run 
 
 dotnet build
