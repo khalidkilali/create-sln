@@ -1,5 +1,13 @@
 <b>C# 10 and .net 6 with visual code </b>
 To learn more about .net6 please check this link below : 
+<b> Préambule</b>
+Framework : Un framework est une plateforme de conception réutilisable pour les systèmes logiciels, qui fournit un support pour les bibliothèques de code et divers langages de script
+.NET 6 : .NET est une plateforme de développement multiplateforme gratuite, multiplateforme open source pour créer de nombreux types d’applications. .NET repose sur un runtime hautes performances utilisé en production par de nombreuses applications à grande échelle.
+
+
+
+
+
 https://devblogs.microsoft.com/dotnet/announcing-net-6/
 to install Visual Code : 
 https://code.visualstudio.com/Download
